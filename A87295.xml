@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charitable constructions of the designe of the trustees usually sitting at Sadlers-Hall. For brevity sake set downe in questions and answers. And written and published to prevent the sinne of rash judging. By a well-wisher to the work.</title>
+            <author>Ibbitson, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87295</idno>
+            <idno type="STC">Wing I28A</idno>
+            <idno type="STC">Thomason E1189_13</idno>
+            <idno type="STC">ESTC R208290</idno>
+            <idno type="EEBO-CITATION">99867250</idno>
+            <idno type="PROQUEST">99867250</idno>
+            <idno type="VID">119555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119555)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charitable constructions of the designe of the trustees usually sitting at Sadlers-Hall. For brevity sake set downe in questions and answers. And written and published to prevent the sinne of rash judging. By a well-wisher to the work.</title>
+                  <author>Ibbitson, Robert.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A well-wisher to the work = Robert Ibbitson. Cf. Wing.</note>
+                  <note>Identified as Wing C2065 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Annotation on Thomason copy: "May 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity laws and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119555:1" rendition="simple:additions"/>
+            <p>
+               <hi>CHARITABLE</hi> CONSTRUCTIONS OF THE DESIGNE OF THE TRUSTEES uſually ſitting at <hi>Sadlers-Hall.</hi>
+            </p>
+            <p>For brevity ſake ſet downe in <hi>Queſtions</hi> and <hi>Anſwers.</hi> AND Written and publiſhed to prevent the Sinne of raſh Judging.</p>
+            <p>
+               <hi>By a well-wiſher to the Work.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Ibbitſon.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119555:2"/>
+            <pb n="1" facs="tcp:119555:2" rendition="simple:additions"/>
+            <head>Charitable Conſtructions of the Deſigne Of the TRUSTEES uſually ſitting at <hi>Sadlers Hall.</hi>
+            </head>
+            <p>
+               <hi>A. <seg rend="decorInit">S</seg>IR I pray you what doe you conceive is indeed their Deſigne?</hi>
+            </p>
+            <p>B. To make their Nation more learned, and military; more learned, for the ſaving of ſoules, becauſe as thoſe who 2 <hi>Pet.</hi> 2.16. Were undiſcipled and unprinci<g ref="char:EOLhyphen"/>pled did wreſt the things hard to bee underſtood to their own deſtruction ſo doe many even now among us. More military, for the ſaving of ſoul<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>
+               <hi>A. But will not the excerciſe of Armes occaſion quarrelling, ſedition &amp;c. and ſo rather kill more than keep more alive?</hi>
+            </p>
+            <p>B. No, for 1. The diſcipline of warre (ſtrictly)
+<pb n="2" facs="tcp:119555:3"/>obſerved preventeth all quarrelling, fewer Duells being fought i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> camps <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en in cities and townes.</p>
+            <p n="2">2 If men doe quarrell, they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one another with ſwords c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uos and many things elſe as well as with any other inſtruments of warre.</p>
+            <p n="3">3 But not therewith ſo well defend them<g ref="char:EOLhyphen"/>ſelves againſt the invaſions of forraigne enemies nor helpe their friends.</p>
+            <p>
+               <hi>A. But by what meanes doe the Truſtees endevour to make this a learned Nation?</hi>
+            </p>
+            <p>B. By ſending all hopeful poore Schollers now ready unto the Univerſities, &amp; maintaining them there eithe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in part, or in all, as they ſhall need. And to this purpoſe the Truſtees have appointed a Probationary Colledge here in <hi>London,</hi> un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o which they firſt bring them, and through which they paſſe them to the Univerſities as the Ro<g ref="char:EOLhyphen"/>mans did through the Temple of vertue unto the Temple of honour and this they doe.</p>
+            <p n="1">1 That they might ſatiſfie every one of their (the Truſtees) conſciences of the ſaid Schollars maturity and ripeneſſe for the ſaid Univerſities.</p>
+            <p n="2">2 For the Schollers proficiencies, for if the ſaid Schollers (notwithſtanding certificates from Country Schooles) be not fully ripe, the Truſtees mature them for ſome Months in the Probatio<g ref="char:EOLhyphen"/>nary Colledge, leaſt the ſaid Schollers by going raw to the Univerſities ſhould be diſcouraged.</p>
+            <p n="3">3 That the Truſtees might have ſome experi<g ref="char:EOLhyphen"/>ence how in the ſaid Colledge theſe Probationers
+<pb n="3" facs="tcp:119555:3"/>doe ſettle to their ſtudies.</p>
+            <p n="4">4. That the Truſtees might provide the ſaid Schollers godly and fit Tutors in the Univerſi<g ref="char:EOLhyphen"/>ties.</p>
+            <p>
+               <hi>A. But will the Truſtees admit no men of yeares into their Probationary Colledge.</hi>
+            </p>
+            <p>B. Yes<g ref="char:punc">▪</g> if they b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e men of great naturall parts like <hi>Apollos</hi> mighty in the ſcriptures and withall, <hi>Orthodox,</hi> ſound in the fai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<g ref="char:punc">▪</g> for they conſider the preſent neceſſities in which thouſands of Con<g ref="char:EOLhyphen"/>gregations are: And that ſuch men in a ſhort time ſpent in Latine, Rethorick, Logic, &amp;c may quickly bee very ſerviceable in the Church.</p>
+            <p>
+               <hi>A. But will they admit no younger Schollers then ſuch as are ready or almoſt ripe for the <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſities?</hi>
+            </p>
+            <p>B. I conceive that yet they have no reaſon to to doe ſo untill all ſuch as bee mature bee firſt provided for, indeed (if that being done they have more monie they may contribute unto mi<g ref="char:EOLhyphen"/>nors, I meane younger Schollers.</p>
+            <p>
+               <hi>A. But whileſt the Schollers doe abide in the ſaid Probationary Colledge what ſhall bee done unto them? or ſhall they do as you heare and conceive?</hi>
+            </p>
+            <p>B. A few Profeſſors ſhall inſtruct them, the Schollers, at certaine houres ſhall queſtion and anſwer each others by asking and anſwering in Latine the queſtions in our Engliſh Catechiſ<g ref="char:EOLhyphen"/>mes citing the Scriptures, brought to prove the anſwers in Latine troping them and turning them
+<pb n="4" facs="tcp:119555:4"/>into Sylogiſmes before their Profeſſors, whereby with the (Lords bleſſing) the ſaid Schollers will be
+<list>
+                  <item>1. well principled.</item>
+                  <item>2. perfect in the ſacred Scrip<g ref="char:EOLhyphen"/>tures.</item>
+                  <item>3. more expert in Rethorick.</item>
+                  <item>4. bee excer<g ref="char:EOLhyphen"/>ciſed (at the leaſt ſomewhat) in Logick.</item>
+               </list>
+            </p>
+            <p n="2">2. Beſide the profeſſors lodging and diet ſhall<g ref="char:EOLhyphen"/>be given to two or more ſtrangers, Schollers up<g ref="char:EOLhyphen"/>on condition that they read weekly ſuch lectures of the Artes as they excell in: which the for<g ref="char:EOLhyphen"/>raigne Schollers (as it is conceived) will take as a curteſie in England and during their ſtay in the ſaid Colledge, bee willing to performe, and not loſe their faculties in thoſe arts by diſ-uſe.</p>
+            <p>
+               <hi>A. But by what meanes intend the Truſtees to raiſe mony for ſo vaſt and expencive a worke?</hi>
+            </p>
+            <p>B. Two wayes. 1. God hath given eſtates and hearts unto ſome as unto <hi>David</hi> 1 <hi>Sam.</hi> 24.24. and they give groſſe ſummes becauſe they bee able, and will not offer unto the Lord of that which coſt them nothing.</p>
+            <p n="2">2. There are others unable to give groſſe ſums and yet they are willing to abſtain from one meale in a weeke and give the value thereof towards this good worke, that they alſo (whether Child<g ref="char:EOLhyphen"/>ren or Servants in Godly families) might like<g ref="char:EOLhyphen"/>wiſe ſhare in the bleſſing: which they (as by the motives in a little booke written and in many mens bands) may happily conceive to bee better given unto poore Schollers then unto any other poore whatſoever.</p>
+            <pb n="5" facs="tcp:119555:4"/>
+            <p n="3">3 So much victualls as is thereby ſpared the Common-wealth gaineth, and the poore will pay the leſſe for victuals, a point very conſiderable in theſe dayes, now dearth is ſo much felt already by ſome, and feared by others.</p>
+            <p>
+               <hi>A. But by both theſe meanes if much money come in, though the ſaid Truſtees being many and men of knowne integrity, unto thoſe who by their ſubſcriptions make them their Truſtees, yet if they give no account but unto themſelves, they muſt expect to bee aſperſed as their betters have been,</hi>
+            </p>
+            <p>B. For proviſion againſt the ſcourge of tongues, I underſtand that the ſaid Truſtees have taken this courſe: Namely to requeſt one faithfull and well affected Common-councelman of every ward in <hi>London</hi> to come as often as they can, and pleaſe, and to ſit with them, and to bee eye and eare witneſſes how they behave themſelves, and if any of theſe Common-councel men die in their yeare or not choſen the next yeare, that the reſt of the ſix and twenty Common-councell, elect another Common-councell man in his roome, and that theſe 26 will be pleaſed to audite the Truſtees accompts out of the Truſtees own Books once every yeare and declare in open Common coun<g ref="char:EOLhyphen"/>cell how they ſhall find the ſame accompts.</p>
+            <p>The like requeſt is made by the Truſtees unto twelve Reverend Miniſters (in every Claſſis of the Province of <hi>London</hi> one) to come as before) and ſit with the ſaid Truſtees: to examine
+<pb n="6" facs="tcp:119555:5"/>the ſaid Probationary Schollers maturity for the Univerſities and to aſſiſt the Truſtees in providing good Tutors in the Univerſities for the ſaid Schollers.</p>
+            <p>
+               <hi>A. But divers Aldermen, Miniſters, Common coun<g ref="char:EOLhyphen"/>cell men, and others have undertaken this worke al<g ref="char:EOLhyphen"/>ſo and therefore the Truſtees who you mention that uſually ſit at Saddlers Hall may doe well to deſiſt ſince the other, by greater ſummes of money given them will fruſtrate this deſigne, and make it now need<g ref="char:EOLhyphen"/>leſſe and ſuperfluous,</hi>
+            </p>
+            <p>B. 1 Many monthes before theſe aroſe or did appeare in this good work, the Truſtees of Sad<g ref="char:EOLhyphen"/>lers Hall, were Legally called to bee Truſtees by many ſubſcribers both of groſſe ſummes and alſo of weekly meales, and how can they with a good conſcience now give over and not performe that truſt, and diſpoſe of thoſe monies according to the ſame truſt?</p>
+            <p n="2">2 The other combination at the firſt decla<g ref="char:EOLhyphen"/>red their intentions to be only to maintaine ſuch poore Schollers as were already in Univerſities, &amp; were likely to come from thence for want of maintainance, as appeareth by the firſt print<g ref="char:EOLhyphen"/>ed paper of their project, indeed ſithence that time they have made an overture of ſending more Schollers alſo unto the Vniverſities.</p>
+            <p n="3">3 But their annuall ſubſcriptions (which mens Eſtates muſt needs feele) may faile as Land<g ref="char:EOLhyphen"/>floods, and experience of contributions of that
+<pb n="7" facs="tcp:119555:5"/>kind after a little while commonly doe.</p>
+            <p>And ſhould the Truſtees at Saddlers Hall (be<g ref="char:EOLhyphen"/>fore mentioned) let their truſt, and work fall upon the others <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſay of ſo great uncertainty?</p>
+            <p>
+               <hi>A. All this while you have not diſcovered how you conceive the Truſtees will endeavour to make this alſo a military Nation.</hi>
+            </p>
+            <p>B. I conceive (by what I heare) that ſince Schollers (eſpecially the hardeſt ſtudents) have need (after their ſedentary labors) of bodyly re<g ref="char:EOLhyphen"/>creation by way of motion to maintaine them in health, and that no recreations are more excel<g ref="char:EOLhyphen"/>lent or honorable then the excerciſes of Armes for young ſtudents, (and for the defence of the Church and Common-wealth they are incom<g ref="char:EOLhyphen"/>parably the beſt) that the Truſtees intention is to have the ſaid Schollers to exerciſe with ſmall Muskets, and Bowes and Pikes, with which Bowes and Pikes, by uſe (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f need re<g ref="char:EOLhyphen"/>quire) they will as eaſily fight joyntly (as a man taught in a Fence Schoole will) with a ſword and a dagger, and is not this a moſt excel<g ref="char:EOLhyphen"/>lent deſigne? For a ſingle pike man ſtandeth one<g ref="char:EOLhyphen"/>ly (as a man condemned by a councell of warre) and is ſhot to death by the enimies Muskets and is of no other uſe (in one battle of an hundered) then to keep of the Horſe: whereas with his pike and bow hee may not only doe that ſervice but father off than the Musket can reach, wound the enemies in all their ranckes both of horſe and
+<pb n="8" facs="tcp:119555:6"/>foote with his barbed Arrows, which are farre worſe then any bullets, and that in many reſpects as might bee ſhewed, and the moſt expert war<g ref="char:EOLhyphen"/>riers of our time acknowledge and doe now be<g ref="char:EOLhyphen"/>gin to practiſe.</p>
+            <p>
+               <hi>A. But I heare (how true I know not) that the ſaid Truſtees intend, to paſſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Schollers from their Probationary Colledge with more popular ſo<g ref="char:EOLhyphen"/>lemnity then many that are wiſe and well affected think meet: if they intend to doe ſo, what doe you conceive may bee the reaſons moving them thereunto?</hi>
+            </p>
+            <p>B. Truly if they ſhall doe ſo, I dare not con<g ref="char:EOLhyphen"/>demn them for indiſcreſion.</p>
+            <p n="1">1 Becauſe of the Old Adage <hi>honos alit artes,</hi> honour nouriſheth or advanceth Arts.</p>
+            <p n="2">2 The multitude is moved unto benificence, by ſence, as well as by ſolid reaſon, yea, much more.</p>
+            <p n="3">3 The wiſeſt nations in all ages, have advan<g ref="char:EOLhyphen"/>ced the publique good with coſtleſſe honours. The <hi>Grecians</hi> and <hi>Romans</hi> by Laureating Learn<g ref="char:EOLhyphen"/>ed men and Conquerours. And our degrees in Schooles at this day are of the ſame nature.</p>
+            <p n="4">4 To honour learning (at this day ſo much decried) ſeemeth not ſuperfluous.</p>
+            <p n="5">5 <hi>Paul</hi> obſerving the prevalency of earthly honours, to make men ſtrive to excel others by arguments from the leaſt to the greater, urgeth us to ſtrive for heaven by honour and glory 1 <hi>Cor.</hi> 9.24. &amp;c. 1 <hi>Theſſ.</hi> 2, 19. 2 <hi>Tim.</hi> 2, 5, and 4, 8.</p>
+            <pb n="9" facs="tcp:119555:6"/>
+            <p n="6">6 If honours bee given in <hi>London</hi> for learning, and the report thereof carried by every carrier into every Country, may not this probably make many Schoolmaſters and Schollers ambitious to excell others in teaching and learning: yea and parents to ſend their Sonnes to Schooles, and by that meanes much advance both Arts and Armes?</p>
+            <p>
+               <hi>A. Only one queſtion more and I have done,</hi>
+            </p>
+            <p>
+               <hi>Rumors, and ſomewhat written and printed inti<g ref="char:EOLhyphen"/>mating an intention to found an <g ref="char:V">Ʋ</g>niverſity here in</hi> London <hi>makes many not only in the <g ref="char:V">Ʋ</g>niverſities but others that have been of other <g ref="char:V">Ʋ</g>niverſities affraid of the Truſtees declining thoſe <g ref="char:V">Ʋ</g>niverſities ancient honours, by ſuch a new erection? and this I feare may doe hurt.</hi>
+            </p>
+            <p>B. I have peruſed the bookes you mention and conferred with ſome of the ſaid Truſtees, and truly I am neſcious or elſe there is no cauſe of any ſuch feare. For,</p>
+            <p>Firſt, I find the ſaid Truſtees (eſpecially ſuch of them as have been of either of our Univer<g ref="char:EOLhyphen"/>ſities) for the doctrine which they have attained unto in thoſe Univerſities, as deſirous as any at this day in the ſaid Univerſities to preſerve the dignity of the Univerſities: therefore they will not do ought that tendeth to the detriment of ei<g ref="char:EOLhyphen"/>ther of them.</p>
+            <p>Secondly, I doe not ſee that by this Eſſay they can poſſible hurt them if they would, but
+<pb n="10" facs="tcp:119555:7"/>very probable it is that happily they may helpe them by this meanes.</p>
+            <p>For either they will not be able to, found an Univerſitie here in <hi>London</hi> or elſe they will bee able?</p>
+            <p>If they attempt it, and doe ſomewhat yet faile to effect it fully, then all that they ſhall doe will but advance the Univerſities as the e<g ref="char:EOLhyphen"/>rection of Schooles doe in all parts of the King<g ref="char:EOLhyphen"/>dome, and untill an Univerſity bee here com<g ref="char:EOLhyphen"/>pleated, <hi>London</hi> (all the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ane while) ſhall more and more repleniſh Cambridge and Oxford both.</p>
+            <p>And therefore whereas others would not have an Univerſitie in <hi>London</hi> to bee mentioned un<g ref="char:EOLhyphen"/>till <hi>Cambridge</hi> and <hi>Oxford</hi> were full: I cry out, hoyſt up a new Univerſity (towards which here in <hi>London</hi> people will ſooner give pounds then ſhillings to fill <hi>Cambridge</hi> and <hi>Oxford</hi>) and ſhould this money be refuſed and loſt, which is offered unto Chriſt by men and women yearely living and dying eſpecially of the attempting to erect a new Univerſity, will ſooneſt of all other meanes repleniſh <hi>Cambridge</hi> and <hi>Oxford.</hi>
+            </p>
+            <p>Whileſt any man is building a Colledge is he not alſo providing of Schollers to put into it? and doth not that fill other Schooles and Colledges.</p>
+            <p>For a man buyeth plants firſt in the Market and then planteth them in a Nurſery, and after, when they are more growne bringeth them into his Garden or Orchard.</p>
+            <pb n="11" facs="tcp:119555:7"/>
+            <p>Thus Nurſeries furniſh Orchards, and Orch<g ref="char:EOLhyphen"/>ards Nurſeries: and new Univerſities furniſh old Univerſities with young Schollers, and old Univerſities furniſh new Univerſities with elder Schollers: This is evidently ſeen in the new Col<g ref="char:EOLhyphen"/>ledges which have been built in Cambridge or Oxford, that the new have not emptied but ra<g ref="char:EOLhyphen"/>ther filled the old.</p>
+            <p>And ſo would a new Univerſity, our old U<g ref="char:EOLhyphen"/>niverſities ſuppoſe that Northampton ſhire men or one Citizen borne in that County would build a faire houſe to make Colledge of and either call it the Northamptonſhire-Colledge, or after his owne name: ſure he would either be prompt<g ref="char:EOLhyphen"/>ed by his owne providence, or ſome would put it into his mind how he ſhould fill it with Schol<g ref="char:EOLhyphen"/>lers, and bid him write into Northamtonſhire, unto poore people to ſend their Sons to Schoole and he would give them ſchollerſhips in that Col<g ref="char:EOLhyphen"/>ledge, and if others would but maintaine their Sonnes a little while at <hi>Cambridge</hi> or <hi>Oxford,</hi> he would give them followſhips: would not this do ſomewhat towards the filling both of Country Schooles and alſo of the Univerſities preſently: and if more Countries or men did the like would it not doe much more? But ſay that in the end <hi>London</hi> ſhould growe to be an Univerſity, then would it not decline <hi>Cambridge</hi> or <hi>Oxford?</hi>
+            </p>
+            <p n="1">1 I anſwer no, for by ſuch time as <hi>London</hi> is
+<pb n="12" facs="tcp:119555:8"/>grown to be an Univerſity; <hi>Cambridge</hi> and <hi>Oxford</hi> will be full.</p>
+            <p n="2">2 Even then when they are filled there will not be Schollers enow, for there is not Colledge roome in them both, either to furniſh us with a Miniſtery numerous enough for all our occaſions; or, if we were (as the bookes mentioned prove) now fully ſtocked with ſuch a miniſtery, bee able to maintaine that ſtock.</p>
+            <p n="3">3 New Colledges built by the Jeſuites doe not empty the old Colledges, nor among the Papiſts make the old Colledges (or order of the Jeſuites) to be leſſe eſteemed.</p>
+            <p n="4">4 The more Colledges there ſhall be founded in <hi>Cambridge</hi> or <hi>Oxford</hi> the more honours will accrue unto thoſe Univerſities ſo long as there is imployment for thoſe Schollers, and the more Univerſities bee founded in <hi>England,</hi> the more will it make for <hi>Englands</hi> honour ſo long as <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſhall have uſe of all thoſe Schollers, as in<g ref="char:EOLhyphen"/>deed at this day <hi>England</hi> hath of as many more, as <hi>Cambridge</hi> and <hi>Oxford</hi> now have, can hold, or poſſibly ſend forth.</p>
+            <p n="5">5 When new Colledges are built in the U<g ref="char:EOLhyphen"/>niverſities the reſt of the Colledges are well pleaſed that thoſe new Colledges are built: and why ſhould not both our Univerſities bee as well pleaſed that a new Univerſitie ſhould be founded elſewhere in <hi>England,</hi> as a new Colledge
+<pb n="13" facs="tcp:119555:8"/>in either of their Vniverſities? For whatſoever can bee alleadged againſt the founding of a new Vniverſitie in <hi>England,</hi> may as well and better be al<g ref="char:EOLhyphen"/>leadged againſt the build<g ref="char:EOLhyphen"/>ing of ſo many new Colledges in our old Univerſities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
